@@ -19,5 +19,8 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "A munkaágon a program végére írjon bele egy programsort, ami az STDOUT-ra kiír valamit." << atlag << std::endl;
+
     return 0;
 }
